@@ -68,7 +68,7 @@
     "rimraf": "^2.6.1",
     "rollup": "~0.52.1",
     "rollup-plugin-uglify": "^2.0.1",
-    "rxjs": "^5.4.2",
+    "rxjs": "5.5.3",
     "tslint": "^5.5.0",
     "typescript": "~2.4.2",
     "zone.js": "^0.8.14"
